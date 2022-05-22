@@ -1,1 +1,1 @@
-# diploma-work
+# practice_large_numbers
